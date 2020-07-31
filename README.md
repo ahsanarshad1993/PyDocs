@@ -31,3 +31,21 @@ print(list(zipped))
 ```
 
 OUTPUT: ```[(1, 'a'), (2, 'b'), (3, 'c')]```
+
+
+### Python repr()
+https://www.programiz.com/python-programming/methods/built-in/repr
+
+The repr() function returns a printable representation of the given object.
+
+```
+var = 'foo'
+print(repr(var))
+```
+
+```
+'foo'
+```
+
+### Python pass Statement
+https://www.tutorialspoint.com/python/python_pass_statement.htm
