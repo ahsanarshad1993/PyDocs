@@ -1,6 +1,11 @@
 # PyDocs
 Useful Docs for Python
 
+* [Asterisks](https://github.com/ahsanarshad1993/PyDocs/blob/master/README.md#asterisks-in-python-what-they-are-and-how-to-use-them)
+* [zip()](https://github.com/ahsanarshad1993/PyDocs/blob/master/README.md#using-the-python-zip-function-for-parallel-iteration)
+* [repr()](https://github.com/ahsanarshad1993/PyDocs/blob/master/README.md#python-repr)
+* [Python pass Statement](https://github.com/ahsanarshad1993/PyDocs/blob/master/README.md#python-pass-statement)
+
 
 ### Asterisks in Python: what they are and how to use them:
 https://treyhunner.com/2018/10/asterisks-in-python-what-they-are-and-how-to-use-them/
